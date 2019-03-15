@@ -1,0 +1,3 @@
+# y = mx+b
+# m = [mean(x).mean(y) - mean(x.y)]/[(mean(x))^2 - mean(x^2)]
+#b = mean(y) - m(mean(x))
