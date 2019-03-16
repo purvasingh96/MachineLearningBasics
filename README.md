@@ -11,3 +11,7 @@ Reference  -  Sentdex.
 ### SE - squared error of the regression line.
 ### r^2 - determines how "fit" the best-fit line actually is.
 <img src="images/Coeff_of_determination.PNG" width="100" >
+
+## K-Means Alogorithm
+### Euclidean Distance
+<img src="images//Euclidean_ditance.PNG" width="150" >
