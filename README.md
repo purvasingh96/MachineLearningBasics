@@ -15,3 +15,13 @@ Reference  -  Sentdex.
 ## K-Means Alogorithm
 ### Euclidean Distance
 <img src="images//Euclidean_ditance.PNG" width="150" >
+
+## Support Vector Machines
+### Equation of a hyper-plane:
+<img src="images/hyperplane_eq.PNG" width="100" >
+
+### Equation of a hyper-plane for +ve class support vector:
+<img src="images/svm_pos_class.PNG" width="100" >
+
+### Equation of a hyper-plane for +ve class support vector:
+<img src="images/svm_neg_class.PNG" width="100" >
