@@ -21,13 +21,19 @@ Reference  -  Sentdex.
 <img src="images/hyperplane_eq.PNG" width="100" >
 
 ### Equation of a hyper-plane for +ve class support vector:
-<img src="images/svm_pos_class.PNG" width="100" >
+<img src="images/svm_pos_class.PNG" width="130" >
 
 ### Equation of a hyper-plane for +ve class support vector:
-<img src="images/svm_neg_class.PNG" width="100" >
+<img src="images/svm_neg_class.PNG" width="130" >
 
 ### Equation of a decision boudry:
-<img src="images/decision_boundry.PNG" width="100" >
+<img src="images/decision_boundry.PNG" width="130" >
 
 ### Equation of classification of feature set:
-<img src="images/classifiying_feature_set.PNG" width="100" >
+<img src="images/classifiying_feature_set.PNG" width="150" >
+
+### Main optimization objective:
+* **Minimize || vector(w) ||** 
+* **Maximize b**
+
+
