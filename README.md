@@ -28,3 +28,6 @@ Reference  -  Sentdex.
 
 ### Equation of a decision boudry:
 <img src="images/decision_boundry.PNG" width="100" >
+
+### Equation of classification of feature set:
+<img src="images/classifiying_feature_set.PNG" width="100" >
