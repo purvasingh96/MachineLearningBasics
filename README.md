@@ -25,3 +25,6 @@ Reference  -  Sentdex.
 
 ### Equation of a hyper-plane for +ve class support vector:
 <img src="images/svm_neg_class.PNG" width="100" >
+
+### Equation of a decision boudry:
+<img src="images/decision_boundry.PNG" width="100" >
