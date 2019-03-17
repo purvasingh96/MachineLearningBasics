@@ -38,6 +38,10 @@ Reference  -  Sentdex.
 
 ### Convex Optimiation Problem:
 #### key-points:
+1. The SVM's optimization problem is a convex problem, where the convex shape is the magnitude of vector w. 
+2. Main Objective: find min. ||vector(w)||.
+3. This point in convex graph is called **Global Minimum**. 
+4. In case of non-linear optimization problems, while taking steps downwards, you might detect you are going back up, so you go back and settle in to a **Local Minimum**.
 
 
 
