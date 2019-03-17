@@ -36,4 +36,8 @@ Reference  -  Sentdex.
 * **Minimize || vector(w) ||** 
 * **Maximize b**
 
+### Convex Optimiation Problem:
+#### key-points:
+
+
 
