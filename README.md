@@ -43,5 +43,9 @@ Reference  -  Sentdex.
 3. This point in convex graph is called **Global Minimum**. 
 4. In case of non-linear optimization problems, while taking steps downwards, you might detect you are going back up, so you go back and settle in to a **Local Minimum**.
 
+## Kernels 
+1. Kernels are similarity functions that take 2 inputs and return similarity using their **dot** product. 
+2. Kernels can be used to perform calculations on non-linear data involving multiple dimensions.
+
 
 
