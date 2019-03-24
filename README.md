@@ -51,6 +51,14 @@ Reference  -  Sentdex.
 1. Hard margin classifiers don't allow any slack/errors.
 2. Soft margin classifiers allow us to have some **Slack (𝝃)** or exceptions in the optimization process.
 3. 𝝃>=0
+4. 𝝃 ∝ soft-margin
+5. We want to minimize 𝝃 as much as possible, therefore, we need to minimze the equation :
+
+
+
+     1/2||w||^2 + (C * The sum of all of the slacks)
+
+
 
 
 
