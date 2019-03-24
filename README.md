@@ -57,6 +57,8 @@ Reference  -  Sentdex.
 
 
      `1/2||w||^2 + (C * The sum of all of the slacks)`
+     
+ 6. Constant **C** determines how much we want to slack to affect rest of the equation.
 
 
 
