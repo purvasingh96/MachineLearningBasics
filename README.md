@@ -1,5 +1,8 @@
 # MachineLearningBasics
-Following along with Sentdex's Machine Learning tutorials.
+Following along with Sentdex’s Machine Learning tutorial
+
+This follows along with the tutorial: [Scikit-learn Machine Learning with Python and SKlearn](https://www.youtube.com/playlist?list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3).
+
 ## Calculating the best-fit slope and y-intercept
 ### The slope, m, of the best-fit line is defined as:
 <img src="images/best_fit%20slope.PNG" width="100" >
