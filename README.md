@@ -64,7 +64,11 @@ This follows along with the tutorial: [Scikit-learn Machine Learning with Python
  6. Constant **C** determines how much we want to slack to affect rest of the equation.
  
  ## Clustering and Un-supervised Machine Learning
- 
+ ### Flat Clustering 
+ With flat clustering, we explicitly mention the number of clusters to the machine. E.g - **K-Means Algorithm**
+
+### Hierarchical clustering
+With Hierarchical clustering, machine itself tries to figure out, how many clusters there should be. E.g - **Mean Shift Algorithm** 
 
 
 
