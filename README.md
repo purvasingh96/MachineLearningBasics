@@ -47,5 +47,11 @@ Reference  -  Sentdex.
 1. Kernels are similarity functions that take 2 inputs and return similarity using their **dot** product. 
 2. Kernels can be used to perform calculations on non-linear data involving multiple dimensions.
 
+### Hard and Soft Margin Classifiers
+1. Hard margin classifiers don't allow any slack/errors.
+2. Soft margin classifiers allow us to have some **Slack (𝝃)** or exceptions in the optimization process.
+3. 𝝃>=0
+
+
 
 
