@@ -56,7 +56,7 @@ Reference  -  Sentdex.
 
 
 
-     1/2||w||^2 + (C * The sum of all of the slacks)
+     `1/2||w||^2 + (C * The sum of all of the slacks)`
 
 
 
