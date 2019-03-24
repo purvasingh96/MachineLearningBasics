@@ -62,6 +62,9 @@ This follows along with the tutorial: [Scikit-learn Machine Learning with Python
      `1/2||w||^2 + (C * The sum of all of the slacks)`
      
  6. Constant **C** determines how much we want to slack to affect rest of the equation.
+ 
+ ## Clustering and Un-supervised Machine Learning
+ 
 
 
 
